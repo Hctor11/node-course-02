@@ -1,7 +1,6 @@
 {
   "name": "course-01",
   "version": "1.0.0",
-  "description": "",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
@@ -9,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
 }
